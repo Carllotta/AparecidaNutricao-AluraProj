@@ -8,7 +8,7 @@ table.addEventListener("dblclick", function(event){
 
     setTimeout(function(){
         event.target.parentNode.remove();
-    },5000);
+    },500);
 
     // var alvoEvento = event.target;
     // var paiDoAlvo = alvoEvento.parentNode;
